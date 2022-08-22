@@ -9,8 +9,7 @@
 
 function disemvowel(str) {
     // your code here
-    return str.replace(/[aeiou]/gi, '');
 }
 
 module.exports = disemvowel;
-
+å
