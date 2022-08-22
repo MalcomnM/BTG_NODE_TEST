@@ -1,0 +1,18 @@
+{
+  "name": "btg_node_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test-001": "npx jest ./disemvowel",
+    "test-002": "npx jest ./exes_and_ohs",
+    "test-003": "npx jest ./like_system",
+    "test-004": "npx jest ./next_prime"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
