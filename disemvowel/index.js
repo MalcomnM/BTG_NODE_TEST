@@ -12,4 +12,3 @@ function disemvowel(str) {
 }
 
 module.exports = disemvowel;
-å
